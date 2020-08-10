@@ -177,6 +177,6 @@ public class MainActivity extends AppCompatActivity{
             //test.setText(user.post);
         }
         test.setText(builder.toString());
-        Log.i(TAG, "printPosts: builder = " + builder.toString());
+        Log.i(TAG, "\nprintPosts: builder = " + builder.toString());
     }
 }

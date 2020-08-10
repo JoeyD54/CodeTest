@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+    <user>
+        <userid>Kate</userid>
+        <post>I made this post</post>
+    </user>
+    <user>
+        <userid>Kate</userid>
+        <post>I made another post</post>
+    </user>
+</users>
